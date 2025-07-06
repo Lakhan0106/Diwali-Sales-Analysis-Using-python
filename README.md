@@ -55,8 +55,12 @@ These insights can help businesses **tailor their advertising**, **optimize prod
 
 ## 📸 Sample Visualizations
 
-> You can include screenshots like:
-- Age group vs Purchase Amount
-- State-wise product category analysis
-- Occupation and product preferences
+![image](https://github.com/user-attachments/assets/8c84b3d7-c2ba-405d-968e-20b25df1fbd9)
+
+![image](https://github.com/user-attachments/assets/a6e575f7-fbe2-4896-939d-bce52ed1063e)
+
+![image](https://github.com/user-attachments/assets/f6e7a106-1547-41fd-8443-e1930176d04d)
+
+
+
 
